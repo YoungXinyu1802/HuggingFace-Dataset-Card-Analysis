@@ -1,0 +1,1 @@
+A cleaned version of MC4 dataset for Sinhala, config is a direct adaptation of MC4 original processing script.

@@ -1,0 +1,1 @@
+This dataset contains 14 novels written by H G Wells. Each novel has been divided into 20 parts, so every 20 lines contain one novel. 

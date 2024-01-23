@@ -1,0 +1,1 @@
+Dataset generated from the files crawled by the [Querido Diario](https://github.com/okfn-brasil/querido-diario) project. 

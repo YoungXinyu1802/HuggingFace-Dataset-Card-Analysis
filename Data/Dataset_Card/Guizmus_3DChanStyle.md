@@ -1,0 +1,13 @@
+---
+license: creativeml-openrail-m
+---
+
+This is the dataset used for making the model  : https://huggingface.co/Guizmus/SD_PoW_Collection
+
+The images were made by the users of Stable Diffusion discord using CreativeML-OpenRail-M licenced models, in the intent to make this dataset.
+
+60 pictures captioned with their content by hand, with the prefix "3D Style"
+
+The collection process was made public during a day, until enough variety was introduced to train through a Dreambooth method a style corresponding to the different members of this community
+
+The picture captioned are available in [this zip file](https://huggingface.co/datasets/Guizmus/3DChanStyle/resolve/main/3DChanStyle.zip)

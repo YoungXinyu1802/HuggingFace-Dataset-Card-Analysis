@@ -1,0 +1,2 @@
+The `test` split is the `validation` split of [MIND](https://msnews.github.io/). Labels for the original `test` split are unavailable.
+Thus, we renamed it to test for consistency in the MTEB benchmark.

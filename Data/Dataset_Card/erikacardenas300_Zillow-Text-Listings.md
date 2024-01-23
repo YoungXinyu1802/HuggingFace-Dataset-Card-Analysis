@@ -1,0 +1,1 @@
+Please cite: E. Cardenas., et al. “A Comparison of House Price Classification with Structured and Unstructured Text Data.” Published in AAAI FLAIRS-35. 2022.

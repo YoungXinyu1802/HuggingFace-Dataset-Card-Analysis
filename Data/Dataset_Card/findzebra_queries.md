@@ -1,0 +1,3 @@
+# FindZebra Queries
+
+A set of 248 search queries annotated with the correct diagnosis. The diagnosis is referenced with a Concept Unique Identifier ([CUI](https://www.nlm.nih.gov/research/umls/new_users/online_learning/Meta_005.html)). In a retrieval setting, the task consists of retrieving an article from the [FindZebra corpus](https://huggingface.co/datasets/findzebra/corpus) with a CUI that matches the query CUI.

@@ -1,0 +1,11 @@
+---
+public_key: -----BEGIN PUBLIC KEY-----\n
+  MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnOjzZicSMFoD8sVcHq5F\n
+  k9HeryaMdlC8ZivIpo0NCd+85rtlWN/LA0h7AQoQJbN/Ri8l2ZfqXmfGKINgpjUs\n
+  FIgVvMOOIT1fiXXANQvNsTaWbJY0uDO4Z1WbWXjIZ6SbZ7FuID4hsHPpG0+uwUcx\n
+  /L3rPya2JRYbOKag5UED5sRHKAdNc9aInzZzOmomyaaA6Btnj9lSX+w65ps/Gi5o\n
+  a18j9aBda/On8WxTNcfBPjxqkyCvqW82te2+XGB8xUllllw2luqERLro9PrkLXV8\n
+  ZhXWqiF909HCw+U6z9MhIoFAmuROEy/pS7Pl9T2h/UUac9SoeNA3EN1qxXpmg/bn
+  PwIDAQAB\n
+  -----END PUBLIC KEY-----
+---

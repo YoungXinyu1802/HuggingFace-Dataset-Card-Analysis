@@ -1,0 +1,1 @@
+This dataset contains IMDB Ratings of various movies of different languages. This dataset also contains the number of votes each movies received

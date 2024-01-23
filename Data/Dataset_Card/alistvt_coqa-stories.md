@@ -1,0 +1,1 @@
+This is a dataset containing just stories of the CoQA dataset with their respective ids. This can be used in the pretraining phase for the MLM tasks.

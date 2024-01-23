@@ -1,0 +1,1 @@
+This is a version of Hate Speech Offensive (https://huggingface.co/datasets/hate_speech_offensive) with a train, validation, and test split. https://arxiv.org/abs/1703.04009

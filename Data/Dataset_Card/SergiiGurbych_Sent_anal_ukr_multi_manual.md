@@ -1,0 +1,1 @@
+This dataset is the extension of the existing dataset Sent_anal_ukr_manual (which was made for binary classification). It includes negative (0), positive (1) and neutral (2) sentences, labeled manually. Part of sentences were taken from the book "Francesca. The Queen of Trajectories" by Dorje Batuu (Andriy Vasyliev), a modern Ukrainian author. 

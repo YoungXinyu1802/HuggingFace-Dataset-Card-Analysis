@@ -1,0 +1,1 @@
+This dataset for Ukrainian language contains 200 original sentences marked manually with 0 (negative) and 1 (positive).

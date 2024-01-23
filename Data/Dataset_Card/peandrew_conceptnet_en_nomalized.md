@@ -1,0 +1,1 @@
+This is the English part of the ConceptNet and we have removed the useless information. 

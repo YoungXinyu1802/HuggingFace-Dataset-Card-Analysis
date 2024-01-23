@@ -1,0 +1,1 @@
+News on Barcelona en spanish media outlets

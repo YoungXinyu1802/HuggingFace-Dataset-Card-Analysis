@@ -1,0 +1,1 @@
+This is a binary version of the LIAR dataset from https://aclanthology.org/P17-2067/, where the labels have been collapsed into either true or false.

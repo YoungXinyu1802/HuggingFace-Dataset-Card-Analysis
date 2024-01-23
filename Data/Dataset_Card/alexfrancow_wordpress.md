@@ -1,0 +1,1 @@
+Bytes of **javascript** and **css** files in **wordpress** applications for multiple classification and identification **wordpress** versions.

@@ -1,0 +1,1 @@
+A chunk 3 of the Pile (2.2m documents) scored using the Perspective API (on May 18-20 2022)

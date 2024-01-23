@@ -1,0 +1,1 @@
+This dataset is part of the CycleGAN datasets, originally hosted here: https://people.eecs.berkeley.edu/~taesung_park/CycleGAN/datasets/.

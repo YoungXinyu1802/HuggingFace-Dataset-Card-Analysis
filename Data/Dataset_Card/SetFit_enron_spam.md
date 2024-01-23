@@ -1,0 +1,1 @@
+This is a version of the [Enron Spam Email Dataset](https://github.com/MWiechmann/enron_spam_data), containing emails (subject + message) and a label whether it is spam or ham.

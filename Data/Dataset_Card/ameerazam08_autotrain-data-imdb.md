@@ -1,0 +1,1 @@
+Simpe Sentimental analysis  Dataset  checking with AUtoTrain  Pipeline        

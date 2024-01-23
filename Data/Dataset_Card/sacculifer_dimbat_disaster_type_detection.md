@@ -1,0 +1,11 @@
+## Labels
+- biological --- 1
+- earthquake --- 2
+- flood --- 3
+- hurricane & tornado --- 4
+- wildfire --- 5
+- industrial --- 6
+- societal --- 7
+- transportation --- 8
+- meteor --- 9
+- haze --- 10

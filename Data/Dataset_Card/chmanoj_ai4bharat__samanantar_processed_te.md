@@ -1,0 +1,1 @@
+This is extracted from telugu subset from https://huggingface.co/datasets/ai4bharat/samanantar - used to create telugu kenLM models for ASR decoding.

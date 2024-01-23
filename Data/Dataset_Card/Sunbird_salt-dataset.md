@@ -1,0 +1,2 @@
+A parallel text corpus, **SALT -- (Sunbird African Language Translation Dataset)**, was created for five Ugandan languages (Luganda,
+Runyankore, Acholi, Lugbara and Ateso) and various methods were explored to train and evaluate translation models. 

@@ -1,0 +1,1 @@
+CC12M of flax-community/conceptual-captions-12 translated from English to Korean.

@@ -1,0 +1,1 @@
+This is a small dataset containing celebrity faces. This dataset was created for educational purposes and is far too small for any sort of model training. However, these images can be used for demo examples or other educational purposes.

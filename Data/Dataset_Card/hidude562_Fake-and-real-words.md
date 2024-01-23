@@ -1,0 +1,1 @@
+This dataset contains fake words and real words. The fake words are classified as "1" and the real words are classified as "0"

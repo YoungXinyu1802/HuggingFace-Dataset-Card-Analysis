@@ -1,0 +1,9 @@
+# Noisy join mixed ASR
+
+Problem with common ASR dataset, each audio sample is a monolanguage, but we can generate an audio sample with multilanguage using ASR and Force Alignment models. Notebooks at https://github.com/huseinzol05/malaya-speech/tree/master/data/noisy-join-mixed-asr
+
+Figure like below,
+
+<img src="https://cdn-lfs.huggingface.co/repos/f9/09/f9096f10880558cdf11dc767d127251c9f4d859cebd9b300ab3e98e2117a2157/0f9967a068e8681221a92d2e6d4cd8b31f2f50d399b262882f2f41827c196d03?response-content-disposition=attachment%3B+filename*%3DUTF-8%27%27augment-noisy-join-mixed-asr.png%3B+filename%3D%22augment-noisy-join-mixed-asr.png%22%3B&response-content-type=image%2Fpng&Expires=1679119880&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4tbGZzLmh1Z2dpbmdmYWNlLmNvL3JlcG9zL2Y5LzA5L2Y5MDk2ZjEwODgwNTU4Y2RmMTFkYzc2N2QxMjcyNTFjOWY0ZDg1OWNlYmQ5YjMwMGFiM2U5OGUyMTE3YTIxNTcvMGY5OTY3YTA2OGU4NjgxMjIxYTkyZDJlNmQ0Y2Q4YjMxZjJmNTBkMzk5YjI2Mjg4MmYyZjQxODI3YzE5NmQwMz9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPSomcmVzcG9uc2UtY29udGVudC10eXBlPSoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzkxMTk4ODB9fX1dfQ__&Signature=QXze412o9at4ktGZfGpHz4sKL4T9-AFZ7-NVoppv0soj3wbykyyZxN967OxdQjoevVxBtPdsyFt7-vGXCzO-HLyMc5WNtbCCdTqvoEA4UpmeBR7ODYheULvQpFmj3JLrG8dIN36VYnYeMc8oV4Zv%7EjhY524-hM9udqx7r55RfOeNQr%7E0-51f1Vg3UkSob7bECqMXRUWpLV2gKDv9IptVNJAi-QsCIA8a%7ExqqcjXvHzuUs5rJvHLFnkEn4XZc52BboT2Z44PkNT8XO-w4nEnrM8PnHuHrKsK3YtTdOD8Hsqk0zOe4ohK-AGiz621NZulr9LUlsbJQbatKN2YC5hjgnQ__&Key-Pair-Id=KVTP0A1DKRTAX" width="50%">
+
+Generated samples ~601 hours.

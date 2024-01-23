@@ -1,0 +1,3 @@
+The Tanakh dataset can be used for training and fine-tuning Biblical Hebrew language models. It consists of the vocalized text of the Hebrew Bible (excluding the Aramaic verses in Jeremiah 10:11; Daniel 2:4b–7:28; Ezra 4:8–6:18; 7:12-26) broken down by verse. The base text of each verse comes from the [Text-Fabric]( https://annotation.github.io/text-fabric/tf/) package and was subsequently processed in order remove accents and other paratextual markers as well as perform custom Unicode normalization using [hebrewtools]( https://pypi.org/project/hebrewtools/0.1.0/). 
+
+The script used to generate the Tanakh dataset can be found [here]( https://github.com/gngpostalsrvc/Hebrew-Datasets/blob/main/generate_Tanakh_dataset.py).

@@ -1,0 +1,1 @@
+This is a translated version of SNLI in Dutch. The translation was performed using Google Translate.

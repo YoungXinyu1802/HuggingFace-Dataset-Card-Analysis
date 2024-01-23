@@ -1,0 +1,1 @@
+SCIERC (Luan et al., 2018) via "Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks" (Gururangan et al., 2020) reuploaded because of error encountered when trying to load zj88zj/SCIERC with the huggingfaces/datasets library. 

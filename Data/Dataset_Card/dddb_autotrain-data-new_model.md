@@ -1,0 +1,53 @@
+---
+task_categories:
+- conditional-text-generation
+
+---
+# AutoTrain Dataset for project: new_model
+
+## Dataset Descritpion
+
+This dataset has been automatically processed by AutoTrain for project new_model.
+
+### Languages
+
+The BCP-47 code for the dataset's language is unk.
+
+## Dataset Structure
+
+### Data Instances
+
+A sample from this dataset looks as follows:
+
+```json
+[
+  {
+    "text": "\u8fd1\u671f\uff0c\u7f8e\u56fd\u56fd\u4f1a\u4f17\u9662\u901a\u8fc7\u6cd5\u6848\uff0c\u91cd\u7533\u7f8e\u56fd\u5bf9\u53f0\u6e7e\u7684\u627f\u8bfa\u3002\u5bf9\u6b64\uff0c\u4e2d\u56fd\u5916\u4ea4\u90e8\u53d1\u8a00\u4eba\u8868\u793a\uff0c\u6709\u5173\u6cd5\u6848\u4e25\u91cd\u8fdd\u53cd\u4e00\u4e2a\u4e2d\u56fd\u539f\u5219\u548c\u4e2d\u7f8e\u4e09\u4e2a\u8054\u5408\u516c\u62a5\u89c4\u5b9a\uff0c\u7c97\u66b4\u5e72\u6d89\u4e2d\u56fd\u5185\u653f\uff0c\u4e2d\u65b9\u5bf9\u6b64\u575a\u51b3\u53cd\u5bf9\u5e76\u5df2\u5411\u7f8e\u65b9\u63d0\u51fa\u4e25\u6b63\u4ea4\u6d89\u3002\n\u4e8b\u5b9e\u4e0a\uff0c\u4e2d[...]",
+    "target": "\u671b\u6d77\u697c\u7f8e\u56fd\u6253\u201c\u53f0\u6e7e\u724c\u201d\u662f\u5371\u9669\u7684\u8d4c\u535a"
+  },
+  {
+    "text": "\u5728\u63a8\u8fdb\u201c\u53cc\u4e00\u6d41\u201d\u9ad8\u6821\u5efa\u8bbe\u8fdb\u7a0b\u4e2d\uff0c\u6211\u4eec\u8981\u7d27\u7d27\u56f4\u7ed5\u4e3a\u515a\u80b2\u4eba\u3001\u4e3a\u56fd\u80b2\u624d\uff0c\u627e\u51c6\u95ee\u9898\u3001\u7834\u89e3\u96be\u9898\uff0c\u4ee5\u4e00\u6d41\u610f\u8bc6\u548c\u62c5\u5f53\u7cbe\u795e\uff0c\u5927\u529b\u63a8\u8fdb\u9ad8\u6821\u7684\u6cbb\u7406\u80fd\u529b\u5efa\u8bbe\u3002\n\u589e\u5f3a\u653f\u6cbb\u5f15\u9886\u529b\u3002\u575a\u6301\u515a\u5bf9\u9ad8\u6821\u5de5\u4f5c\u7684\u5168\u9762\u9886\u5bfc\uff0c\u59cb\u7ec8\u628a\u653f\u6cbb\u5efa\u8bbe\u6446\u5728[...]",
+    "target": "\u5927\u529b\u63a8\u8fdb\u9ad8\u6821\u6cbb\u7406\u80fd\u529b\u5efa\u8bbe"
+  }
+]
+```
+
+### Dataset Fields
+
+The dataset has the following fields (also called "features"):
+
+```json
+{
+  "text": "Value(dtype='string', id=None)",
+  "target": "Value(dtype='string', id=None)"
+}
+```
+
+### Dataset Splits
+
+This dataset is split into a train and validation split. The split sizes are as follow:
+
+| Split name   | Num samples         |
+| ------------ | ------------------- |
+| train        | 5850 |
+| valid        | 1679 |

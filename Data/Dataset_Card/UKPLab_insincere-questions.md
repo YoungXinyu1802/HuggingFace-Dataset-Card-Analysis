@@ -1,0 +1,1 @@
+This is a version of the Quora Insincere Questions Classification (https://www.kaggle.com/c/quora-insincere-questions-classification) task with a validation split.

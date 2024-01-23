@@ -1,0 +1,1 @@
+Reformatted version of the ParaSCI dataset from [ParaSCI: A Large Scientific Paraphrase Dataset for Longer Paraphrase Generation](https://arxiv.org/abs/2101.08382). Data retrieved from [dqxiu/ParaSCI](https://github.com/dqxiu/ParaSCI).

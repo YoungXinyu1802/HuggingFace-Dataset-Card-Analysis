@@ -1,0 +1,1 @@
+This dataset is converted from duconv, durecdial, ecm, naturalconv, persona, tencent, kdconv, crosswoz,risawoz,diamante,restoration and LCCC-base 12 high quality datasets and is used for continue pretrain task for T5-pegasus in mengzi version.

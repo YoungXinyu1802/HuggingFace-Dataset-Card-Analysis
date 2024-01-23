@@ -1,0 +1,1 @@
+This is the same dataset as the question_generator dataset but with the context removed and the question and answer in separate fields. This is intended to be used with the [question_generator](https://github.com/AMontgomerie/question_generator) repo to train the qa_evaluator model which predicts whether a question and answer pair makes sense.

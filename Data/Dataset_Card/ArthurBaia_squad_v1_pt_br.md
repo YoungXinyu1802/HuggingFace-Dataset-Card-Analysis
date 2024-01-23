@@ -1,0 +1,1 @@
+This dataset was created by Deep Learning Brasil(www.deeplearningbrasil.com.br). I just published it on Hugging Face hub with the intention to share it with more people that are training brazilian portuguese models. The original link is here drive.google.com/file/d/1Q0IaIlv2h2BC468MwUFmUST0EyN7gNkn/view.

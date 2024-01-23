@@ -1,0 +1,1 @@
+HF-datasets version of Deepmind's [code_contests](https://github.com/deepmind/code_contests) dataset, notably used for AlphaGo. 1 row per solution, no test data or incorrect solutions included (only name/source/description/solution/language/difficulty)

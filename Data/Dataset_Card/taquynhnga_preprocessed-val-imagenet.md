@@ -1,0 +1,1 @@
+This dataset contains 5 pickle files which is a hugging face dataset, each contains 10,000 images in PIL.Image data type together with their class label and class id

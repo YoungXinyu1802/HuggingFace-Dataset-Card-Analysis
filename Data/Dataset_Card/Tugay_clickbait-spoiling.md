@@ -1,0 +1,1 @@
+Data for Semeval 2023 task, clickbait spoiling

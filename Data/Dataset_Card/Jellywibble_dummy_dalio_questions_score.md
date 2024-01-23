@@ -1,0 +1,1 @@
+Dummy dataset to check reward model training is learning correctly. Score is the number of question marks in Ray's response.

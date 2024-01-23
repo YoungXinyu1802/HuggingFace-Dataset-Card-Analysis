@@ -1,0 +1,219 @@
+---
+annotations_creators:
+- expert-generated
+language_creators:
+- expert-generated
+language:
+- ar
+license:
+- unknown
+multilinguality:
+- monolingual
+size_categories:
+- 100K<n<1M
+source_datasets:
+- original
+task_categories:
+- token-classification
+task_ids:
+- named-entity-recognition
+pretty_name: CANER
+dataset_info:
+  features:
+  - name: token
+    dtype: string
+  - name: ner_tag
+    dtype:
+      class_label:
+        names:
+          '0': Allah
+          '1': Book
+          '2': Clan
+          '3': Crime
+          '4': Date
+          '5': Day
+          '6': Hell
+          '7': Loc
+          '8': Meas
+          '9': Mon
+          '10': Month
+          '11': NatOb
+          '12': Number
+          '13': O
+          '14': Org
+          '15': Para
+          '16': Pers
+          '17': Prophet
+          '18': Rlig
+          '19': Sect
+          '20': Time
+  splits:
+  - name: train
+    num_bytes: 5095721
+    num_examples: 258240
+  download_size: 17063406
+  dataset_size: 5095721
+---
+
+# Dataset Card for CANER
+
+## Table of Contents
+- [Dataset Description](#dataset-description)
+  - [Dataset Summary](#dataset-summary)
+  - [Supported Tasks and Leaderboards](#supported-tasks-and-leaderboards)
+  - [Languages](#languages)
+- [Dataset Structure](#dataset-structure)
+  - [Data Instances](#data-instances)
+  - [Data Fields](#data-fields)
+  - [Data Splits](#data-splits)
+- [Dataset Creation](#dataset-creation)
+  - [Curation Rationale](#curation-rationale)
+  - [Source Data](#source-data)
+  - [Annotations](#annotations)
+  - [Personal and Sensitive Information](#personal-and-sensitive-information)
+- [Considerations for Using the Data](#considerations-for-using-the-data)
+  - [Social Impact of Dataset](#social-impact-of-dataset)
+  - [Discussion of Biases](#discussion-of-biases)
+  - [Other Known Limitations](#other-known-limitations)
+- [Additional Information](#additional-information)
+  - [Dataset Curators](#dataset-curators)
+  - [Licensing Information](#licensing-information)
+  - [Citation Information](#citation-information)
+  - [Contributions](#contributions)
+
+## Dataset Description
+
+- **Homepage:** 
+- **Repository:** [Classical-Arabic-Named-Entity-Recognition-Corpus](https://github.com/RamziSalah)
+- **Paper:** [Researchgate](https://www.researchgate.net/publication/330075080_BUILDING_THE_CLASSICAL_ARABIC_NAMED_ENTITY_RECOGNITION_CORPUS_CANERCORPUS)
+- **Leaderboard:**
+- **Point of Contact:** 
+
+### Dataset Summary
+
+The Classical Arabic Named Entity Recognition corpus is a new corpus of tagged data that can be useful for handling the issues in recognition of Arabic named entities.
+
+### Supported Tasks and Leaderboards
+
+- Named Entity Recognition
+
+### Languages
+
+Classical Arabic
+
+## Dataset Structure
+
+### Data Instances
+
+An example from the dataset:
+```
+{'ner_tag': 1, 'token': 'الجامع'}
+```
+Where 1 stands for "Book"
+
+### Data Fields
+
+- `id`: id of the sample
+ - `token`: the tokens of the example text
+ - `ner_tag`: the NER tags of each token
+
+The NER tags correspond to this list:
+ ```
+"Allah",
+"Book",
+"Clan",
+"Crime",
+"Date",
+"Day",
+"Hell",
+"Loc",
+"Meas",
+"Mon",
+"Month",
+"NatOb",
+"Number",
+"O",
+"Org",
+"Para",
+"Pers",
+"Prophet",
+"Rlig",
+"Sect",
+"Time"
+ ```
+
+### Data Splits
+
+Training splits only
+
+## Dataset Creation
+
+### Curation Rationale
+
+[More Information Needed]
+
+### Source Data
+
+#### Initial Data Collection and Normalization
+
+[More Information Needed]
+
+#### Who are the source language producers?
+
+[More Information Needed]
+
+### Annotations
+
+#### Annotation process
+
+[More Information Needed]
+
+#### Who are the annotators?
+
+Ramzi Salah and Lailatul Qadri Zakaria
+
+### Personal and Sensitive Information
+
+[More Information Needed]
+
+## Considerations for Using the Data
+
+### Social Impact of Dataset
+
+[More Information Needed]
+
+### Discussion of Biases
+
+[More Information Needed]
+
+### Other Known Limitations
+
+[More Information Needed]
+
+## Additional Information
+
+[More Information Needed]
+
+### Dataset Curators
+
+[More Information Needed]
+
+### Licensing Information
+
+[More Information Needed]
+
+### Citation Information
+
+@article{article,
+author = {Salah, Ramzi and Zakaria, Lailatul},
+year = {2018},
+month = {12},
+pages = {},
+title = {BUILDING THE CLASSICAL ARABIC NAMED ENTITY RECOGNITION CORPUS (CANERCORPUS)},
+volume = {96},
+journal = {Journal of Theoretical and Applied Information Technology}
+}
+
+### Contributions
+
+Thanks to [@KMFODA](https://github.com/KMFODA) for adding this dataset.

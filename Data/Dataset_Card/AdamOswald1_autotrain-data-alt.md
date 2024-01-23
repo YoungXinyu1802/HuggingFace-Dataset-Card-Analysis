@@ -1,0 +1,53 @@
+---
+task_categories:
+- image-classification
+
+---
+# AutoTrain Dataset for project: alt
+
+## Dataset Description
+
+This dataset has been automatically processed by AutoTrain for project alt.
+
+### Languages
+
+The BCP-47 code for the dataset's language is unk.
+
+## Dataset Structure
+
+### Data Instances
+
+A sample from this dataset looks as follows:
+
+```json
+[
+  {
+    "image": "<600x600 RGB PIL image>",
+    "target": 1
+  },
+  {
+    "image": "<1024x590 RGB PIL image>",
+    "target": 1
+  }
+]
+```
+
+### Dataset Fields
+
+The dataset has the following fields (also called "features"):
+
+```json
+{
+  "image": "Image(decode=True, id=None)",
+  "target": "ClassLabel(names=['Adult Chara', 'Adult Chara and Young Chara', 'Chara', 'Female Kris', 'Kris', 'Kris and Adult Chara', 'Kris and Chara', 'Kris and Female Chara', 'Kris and Male Chara', 'Kris and The Player', 'Kris and a Soul', 'Kris next to the Ghost of Chara', 'Male Kris', 'Male Kris and Female Kris', 'StoryShift Chara', 'StoryShift Chara and Young Chara', 'Teen Chara and Young Chara', 'Teenager Chara and Young Chara', 'Young Chara'], id=None)"
+}
+```
+
+### Dataset Splits
+
+This dataset is split into a train and validation split. The split sizes are as follow:
+
+| Split name   | Num samples         |
+| ------------ | ------------------- |
+| train        | 243 |
+| valid        | 243 |

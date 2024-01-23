@@ -1,0 +1,1 @@
+This dataset contains images for the classification of bees and ants

@@ -1,0 +1,1 @@
+This repository holds embeddings for Stable Diffusion 2 768

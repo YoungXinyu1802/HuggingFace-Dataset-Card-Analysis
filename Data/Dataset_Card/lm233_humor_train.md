@@ -1,0 +1,10 @@
+annotations_creators: []
+language_creators: []
+languages: []
+licenses: []
+multilinguality: []
+pretty_name: humor_train
+size_categories: []
+source_datasets: []
+task_categories: []
+task_ids: []

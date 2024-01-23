@@ -1,0 +1,1 @@
+Kaggle based dataset for text classification task. The data has been cleaned and processed for preparation into any model for classification based tasks. This is just 40% of the entire dataset.

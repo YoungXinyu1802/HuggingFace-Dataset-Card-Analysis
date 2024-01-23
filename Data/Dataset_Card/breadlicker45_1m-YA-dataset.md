@@ -1,0 +1,1 @@
+N/A. (2021). Yahoo! Answers (Version v1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.5259952

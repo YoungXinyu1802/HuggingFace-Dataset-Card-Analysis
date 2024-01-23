@@ -1,0 +1,1 @@
+Preprocessed data from [Piotr Rybak](https://huggingface.co/datasets/piotr-rybak) and [PolEval](https://github.com/poleval). I am not the owner of these data.

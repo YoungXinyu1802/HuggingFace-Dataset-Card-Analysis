@@ -1,0 +1,1 @@
+Just for test. The copy of the dataset https://www.kaggle.com/dataclusterlabs/domestic-house-windows-dataset 

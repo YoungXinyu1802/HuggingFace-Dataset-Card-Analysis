@@ -1,0 +1,1 @@
+Subset of CORD-19 for rapid prototyping of ideas in vector encodings and Weaviate.

@@ -1,0 +1,1 @@
+Dataset containing city, country, region, and continents alongside their longitude and latitude co-ordinates. Cartesian coordinates are provided in x, y, z features.

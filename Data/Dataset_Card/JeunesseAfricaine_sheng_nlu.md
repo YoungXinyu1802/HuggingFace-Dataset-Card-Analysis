@@ -1,0 +1,417 @@
+---
+license: mit
+---
+
+## Common User Intentions
+
+#### Greetings
+- Wasemaje
+- uko aje btw
+- oyah...
+- Form
+- Alafu niaje
+- Poa Sana Mambo
+- Niko poa
+- Pia Mimi Niko salama
+- Hope siku yako iko poa
+- Siko poa kabisa
+- Nimekuwa poa
+- Umeshindaje
+- Hope uko poa
+- uko poa
+- Sasa
+- Vipi vipi
+- Niko salama
+- ..its been long.
+- Nko fiti
+- niko fiti
+- Nmeamka fity..
+- Vipi
+- Unasemaje
+- Aaaah...itakuaje sasaa..
+ - .iz vipi..itakuaje..
+ -  Form ni gani bro...
+ - iz vipi
+ 
+#### Affirm
+- Hapo sawa...
+- Fty
+- sai
+- Hio si ni better hadi
+- Imebidi.
+- Eeeh mazee
+- mazeee
+-  Fity fity
+- Oooh poapoa
+- Yap 
+- Inakaa poa
+- Yeah itabidi
+- Ooooh...
+- Si ndo nadaaiii😅
+- Oooh sawa
+- Okay sawa basi
+- Venye utaamua ni sawa
+-  Sawa wacha tungoje
+- lazima
+- apa umenena
+- Sawa basi
+- walai
+- Oooh
+- inaweza mbaya
+- itaweza mbaya
+- ni sawa
+- Iko poa
+- Iko tu sawa hivo
+- ilinbamba.
+- Nimemada
+- Btw hao ata mimi naona
+- but inaeleweka
+- pia mimi
+- iende ikiendaga
+- We jua ivo
+- Hata Mimi
+- Nataka
+- Ooh.
+- Chezea tu hapo
+- isorait
+- Ata yako ni kali
+- Ntaicheck out Leo
+- hmm. Okay
+-  Mimi sina shida
+- ooooh io iko fity...
+- hii ni ngori
+- maze
+- sawa
+- banaa
+- Aaah kumbe
+-  Safiii..
+- Sasawa
+- hio ni fityyy
+- Yeah nliona
+- Vizii...
+-  Eeeeh nmekua naiona...
+- Yea
+- Haina nomA
+- katambe
+- accept basi
+- ni sawa
+- Issaplan
+- nmeget
+- nimedai tu
+- eeh
+- Hio ni poa
+- nadai sa hii
+- Eeeeh
+- mi nadai tu 
+- firi
+- Hapo freshi
+
+#### Deny
+- Sipendi
+- aih
+- Nimegive up
+- Yangu bado
+- siezi make
+- Sina😊
+- Haileti
+- Haiwezi
+- Io sikuwa nikwambie
+- Sikuwa
+-  Wacha ata
+- ata sijui
+- Sijasema
+- Sijai
+- hiyo haiezi
+- Bado.
+-  Uku tricks...
+- sidai
+-  achana nayo
+- ziii
+- si fityy
+- Nimekataa Mimi
+- Sijui
+- Aiwezekani
+- Bado sioni
+
+#### Courtesy
+- Imefika... shukran
+- Haina ngori
+- Inafaa hivo
+- Utakuwa umeniokolea manzee
+- Karibu
+- Nyc one
+- Hakuna pressure
+- Gai. Pole
+- Usijali I will
+- Nimekufeel hapo
+- Waah izaa
+- Pole lkn
+- Pole
+- plz
+- okay...pole
+- thanks for pulling up lkn..
+- shukran
+- Eeeeh nyc
+- Thanx for the info
+- Uko aje
+- haina pressure
+- eih, iko fiti.
+- vitu kama hizo
+- sahii
+
+#### Asking clarification
+- check alafu unishow
+- Sasa msee akishabuy anafanya aje
+- Umeenda wapi
+- nlikuwa nadai
+- Nlikua nataka
+- Ulipata
+- leo jioni utakuwa?
+- uko
+- umelostia wapi?
+- ingine?
+- hii inamaanisha?
+- Wewe Sasa ni nani?
+- warrathos
+- kwani nisiende sasa
+- unadai zingine?
+- Kwani
+- Haiya...
+- Unadu?
+- inakuanga mangapiii...
+- Kuna nn
+- Nauliza
+- Hakuna kwanini
+-  Nadai kujua what
+- Kwanini hakuna
+- Kwa nini hakuna
+- Uliniambia
+- Mbona
+- Nlikua nashangaa
+- Unadu nini
+- Oooh mara moja
+- Unaeza taka?
+- unaeza make?
+- Umeipata?
+- wapi kwingine tena
+- kuna yenye natafuta
+- Sijajua bado
+- Niko na ingine
+- ulikuwa unataka
+- ulinishow?
+- ulinsho
+- Umepata
+- Ata stage hakuna?
+- Huku hakuna kibandaski?
+- Sai ndio uko available
+- Ivo
+- Inaeza
+- Naeza
+- Btw, nikuulize
+- Uliza
+- hadi sa hii
+- Nauliza ndio nijue kama bado iko
+- Btw ile hoteli tulienda na wewe apo kiimbo huendangi?
+
+#### Comedy
+- Ata kama
+- Wasikupee pressure
+- umeanza jokes
+- Ulisumbua sana
+- Unaeza niambia ivo
+- usinicheke
+- Hakuna😁😁kwanini
+- aki wewe.
+- naskia mpaka ulipiga sherehe
+- sio?
+- uko na kakitu
+- Aaaaii 
+- .uko fity nayo..
+- icome through mbaya...
+
+#### Small talk
+- Kuchil tu bana
+- Inafaa hivo
+- Acha niskizie
+- Skujua hii stuff
+- nacheza chini
+- hii imesink deep.
+- mi Niko
+- khai, gai, ghaiye
+- Woiye
+- ndo nmeland
+- Nimekuona
+- Kaaai
+- Nambie
+- bado nashangaa aliipull thru maze
+- Niambie
+- Najua uko kejani
+- Bado uko
+- Utakuwa sawa
+- Niko poa ata kama uniliacha hanging jana
+- issa deal
+- Walai io nilijua utasema
+- hujawai sahau hii
+- Sijajua bado
+- Ni maroundi tu
+- Enyewe imetoka mbali
+- Hadi nimekuwa Tao leo
+- Ni mnoma mbaya
+- Anyway mambo ni polepole
+- Imagine
+- Sina la kusema
+- Sai
+- Najua umeboeka
+
+#### Resolute
+- Nataka leo
+- hayo ndo maisha Sasa
+- vile itakuja maze
+- Acha tu
+- Waaah Leo haiwezi
+- Ni sawa tu
+- Imeisha
+- Itabidi
+- siendagi
+-  siezi kuangusha
+- nachangamkia hii
+- Weno ivi...
+- Hii price iko poa...
+
+#### implore
+- but nimetry tena
+- aminia tu
+- Ebu try
+- Alafu
+- naona hufeel kuongea
+- Watu hawaongei?
+- Itabidi tu umesort
+- Naona huna shughuli yangu
+- tufanye pamoja
+- khai, gai, ghaiye
+- so kalunch
+- ama?
+- Sahii ni the best time
+- Kwanza sahii
+- hii weekend
+- Kaanza next weekend ni fity
+- this weekend
+- Acha ntacheki
+- izo sasa..
+- Acha tuone
+- So tunafikanga ivor morning mapemaa
+- naona uko rada
+- mapema kiasi
+- nimchapie niskie... 
+- Naisaka walai
+
+#### Bye
+- Ama kesho
+- Ngoja nta rudi baadaye
+- nacheki tu rada ya kesho
+- Nitakusort kesho morning
+- Ni hivo nimekafunga
+- nitakushow
+-  Nextweek ndio inaeza
+- Ntakuchapia kama ntamake
+- Freshi
+
+#### Sample Bot Responses
+- tulia tu hana mambo mob
+- si you know how we do it 
+-  Form ni gani
+- Oooh nmekuget
+- znaeza kupea stress
+- Hues make leo
+- nshow password
+- Nmeichangamkia design ya ngori
+- Oooh nmekuget...
+- ilicome through
+- Naisaka walai
+- kesho ntakuchapia
+- nichapie niskie
+- Aaaah..😅
+- Alafu ile story ya
+- Ooooh ebu ntasaka
+- Saa ngapi uko free..
+- Ama unasema ya
+- Safiii..naona uko rada
+- Ilkulemea🤣
+- Acha ntacheki
+- imeharibia form..
+- Nmeitafuta
+- Ndio nimeget
+- inaeza saidia mtu
+- Email yako ni gani
+- Wacha niangalie
+- nangoja ulipe
+- nimeshikika
+- Sawa tuma email
+- Kwani ulimwambia nini
+- Najua ata most of the time
+- mara most btw
+- Unajua tu ni risky
+- unadai tu niseme mi ni robot
+- kwanini
+- ndio usiulizwe
+- Ukiangalia niambie
+- Last time ukinipigia nilikuwa nimeenda kuoshwa
+- ikishaenda kwa mganga hairudi
+- Hata Mimi ni hayo mambo madogo madogo ndio imenieka.
+- We jua nafikirianga mingi ni venye zingine huwa sisemi
+- Na najua
+- unarelax
+- mm ata sko tensed
+- sahii ata ni risky
+- but ntakuchapia
+- oooh waah..
+- aaaah ata ww
+- hii si fityy
+- maze itabidi tudunde virtual
+- tunadunda wapiiii..
+- kwani sa mi ndo nafaa kumshow kila time coz this is not the first time namwambia🤦‍♀️
+- Wacha hizo.
+- Yeah niko hapa
+- Niko
+- Give me sometime.
+- Maze...nmecheza ki mimi
+- Uko busy
+- Chill kiasi
+- Wacha nikusort
+- ntakushow
+- looking for you hupatikani
+- Mnaniogopa ama
+- Wewe unapenda free
+- Nakusort sai chill mazee
+- Kiasi
+- relax mkubwa
+- Sahii uko sorted sindio
+- Ni juu
+- bringing the future to us
+- hiyo ni form yangu daily
+- Ata mimi sitaki ufala 😂
+- Imagine
+- Uko sawa
+- Uko sawa ama unaitaji ingine
+- ka unaeza
+- utanichapia tu
+- unasemaje lakini
+- Niulize
+- Uko na number
+- Ukiboeka wewe nitext
+- unadai sa hii ?
+- skuwa nimeona
+- Acha nicheki
+- Ni Friday bana
+- Niko chilled tu
+- Unadai aje.
+- Utanichapia basi
+- Umenyamaza sana bana
+- imekam through ama
+- Nategea umalize ndo nikushow ile form
+- Guidance tu kiasi
+- Tutadiscuss pia stori
+- Nakwelewa
+- tujue niaje
+- itaweza mbaya
+- Kuna hopes za kulearn

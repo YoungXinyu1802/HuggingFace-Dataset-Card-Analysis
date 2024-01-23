@@ -1,0 +1,1 @@
+This is used for the pix2seq model. It contains the preprocessed pixel values of the cats image, useful for converting.

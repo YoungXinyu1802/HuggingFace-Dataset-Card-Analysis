@@ -1,0 +1,1 @@
+This dataset contains 10 examples of the [segments/sidewalk-semantic](https://huggingface.co/datasets/segments/sidewalk-semantic) dataset (i.e. 10 images with corresponding ground-truth segmentation maps).

@@ -1,0 +1,1 @@
+Cómo reclamar los daños después de un apagón eléctrico: las indemnizaciones que debe costear la empresa tras cortar el suministro

@@ -1,0 +1,1 @@
+This dataset is based on the dataset originally posted in [Kaggle](https://www.kaggle.com/datasets/fredericods/ptbr-sentiment-analysis-datasets?resource=download)
