@@ -9,7 +9,7 @@ This repository contains the data and analysis code of our paper:
 
 > [Navigating Dataset Documentations in AI: A Large-Scale Analysis of Dataset Cards on HuggingFace](https://openreview.net/forum?id=xC8xh2RSs2&noteId=dTUqhKV1ON) <br>
 > Xinyu Yang\*, Weixin Liang\*, James Zou <br>
-> ICLR 2024
+> ICLR 2024 [[Arxiv]](https://arxiv.org/pdf/2401.13822.pdf)
 
 ## Repo Structure Overview
 
